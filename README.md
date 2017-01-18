@@ -15,6 +15,7 @@ GoogleVR prefab to the scene and export to the platform which you need
 
 ### Prerequisities
 Mobile Phone,
+Google Cardboard HMD,
 GoogleVR SDK for add to the project
 
 ![Screenshot](https://github.com/ChechkovEugene/UdacityVR_FirstProject/blob/master/Screenshots/Screenshot_2016-12-24-21-27-29.png "Screenshot")
